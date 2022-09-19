@@ -8,12 +8,6 @@
 yarn init
 ```
 
-### install webpack for dev
-
-```bash
-yarn add webpack webpack-cli webpack-dev-server  html-webpack-plugin -D
-```
-
 ### 
 
 ### create webpack.react.js
